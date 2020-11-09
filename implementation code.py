@@ -2,6 +2,9 @@ from matplotlib import pyplot as plt
 import numpy as np
 import random
 
+"""
+k-means聚类
+"""
 def loadDataSet(fileName):
     # 载入数据测试数据集
     #数据类型list为二维坐标
